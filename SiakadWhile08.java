@@ -31,7 +31,7 @@ public class SiakadWhile08 {
             } else if (nilai > 39 && nilai <= 50) {
                 System.out.println("Nilai mahasiswa ke-" + (i + 1) + " adalah D");
             } else {
-                System.out.println("Nilai mahasiswa ke-" + (i + 1) + " adalah D");
+                System.out.println("Nilai mahasiswa ke-" + (i + 1) + " adalah E");
             }
             i++;
         }
